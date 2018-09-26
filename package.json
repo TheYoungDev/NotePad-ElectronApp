@@ -1,0 +1,14 @@
+{
+  "name": "notepad",
+  "version": "1.0.0",
+  "description": "notepad electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "MarcSt",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^3.0.0"
+  }
+}
